@@ -1,0 +1,10 @@
+# The Labyrinth of Chaos - Requirements
+# This project uses only Python standard library
+# Python 3.6+ required
+
+# No external dependencies needed!
+# All required modules are part of Python's standard library:
+# - random
+# - collections (deque)
+# - os
+# - sys
